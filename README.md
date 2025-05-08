@@ -1,6 +1,6 @@
 <!-- ## Hi Peeps! I'm Farde 👋 -->
 <h1 align="left">👩‍💻 Hi Peeps! I'm Farde 👋</h1>
-<h8 align="center"> Actuarial Modeling | Data Science Enthusiast | Finance Analyst </h3>
+<h8 align="center"> Actuarial Modeling | Data Science Enthusiast | Finance Analytics  </h3>
 
 <!--
 **faradilahade/faradilahade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,12 +27,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=228B22&center=true&vCenter=true&multiline=true&lines=Actuarial+Modeling;Data+Science;Finance+Analytics;Continuous+Learning+%26+Innovation"/>
+  <marquee behavior="scroll" direction="right" scrollamount="5" style="color:black; font-size:20px; font-weight:600;">
+    Actuarial Modeling | Data Science | Finance Analytics | Continuous Learning & Innovation
+  </marquee>
 </p>
-
-
 
 ---
 
@@ -60,48 +59,87 @@ Committed to continuous professional development and the delivery of data-driven
 
 ---
 
-## 🔎 Core Competencies
+<!-- ## 🔎 Core Competencies
 
 - **Programming & Data Tools**: Python, R, SQL, Jupyter, RStudio
 - **Data Visualisation**: Tableau, Power BI, Matplotlib, ggplot2
 - **Business Tools**: Excel VBA, Google Sheets
-- **Web Technologies**: HTML/CSS
+- **Web Technologies**: HTML/CSS -->
+## 🔎 Core Competencies
+#### 🐍 Programming & Data Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white">
+</p>
+
+### 📊 Data Visualisation
+<p align="center">
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-ggplot2-DF382C?style=flat&logo=r&logoColor=white">
+</p>
+
+### 📈 Business Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/-Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white">
+</p>
+
+### 🌐 Web Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+</p>
 
 ---
 
 ## 📊 Project Portfolio
 
-### Current Projects
-- **Dynamic Mortality Modelling**: Predictive models employing Python and R.
-- **Financial Time Series Forecasting**: Application of ARIMA and LSTM algorithms.
-- **Insurance KPIs Dashboard**: Development using Tableau and Excel VBA.
+### 🚀 Current Projects
+ 🧮 **Dynamic Mortality Modelling**  
+  *Building predictive actuarial models employing Python and R.*
+  
+ 📈 **Financial Time Series Forecasting**  
+  *Application of ARIMA and LSTM algorithms to market datasets.*
 
-### Upcoming Endeavours
-- **Data-Driven Retirement Planning Application** (HTML & Python).
-- **Risk Management Portfolio Optimiser** (Jupyter & Tableau).
+ 📊 **Insurance KPIs Dashboard**  
+  *Development of interactive dashboards using Tableau and Excel VBA.*
 
-### Previous Experience
-- **Credit Scoring Model**: Development of an ML-based loan default predictor.
-- **Actuarial Life Table Simulation**: Monte Carlo simulation for longevity risk.
+---
+
+### 🧭 Upcoming Endeavours
+ 🏦 **Data-Driven Retirement Planning Application**  
+  *Integrating actuarial calculations and financial planning tools (HTML & Python).*
+
+ 🔎 **Risk Management Portfolio Optimiser**  
+  *Advanced portfolio analytics using Jupyter & Tableau.*
+
+---
+
+### 🏛 Previous Experience
+ 🏷 **Credit Scoring Model**  
+  *Developed a machine learning pipeline for loan default prediction.*
+
+ 📉 **Actuarial Life Table Simulation**  
+  *Implemented Monte Carlo simulations to model longevity risk.*
 
 ---
 
 ## 📚 Continuing Professional Development
 
-- Bayesian Statistical Modelling (PyMC)
-- Advanced Actuarial Techniques
-- Machine Learning for Finance
-- Advanced Reporting with Tableau
+ 📘 **Bayesian Statistical Modelling** *(PyMC)*
+ 🎯 **Advanced Actuarial Techniques**
+ 🤖 **Machine Learning for Finance**
+ 📊 **Advanced Reporting with Tableau**
 
----
 
 ## 📨 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2314213D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E5C07B?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2314213D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faradilahade/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E5C07B?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://www.linkedin.com/in/faradilahade/)
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E5C07B&center=true&vCenter=true&multiline=true&lines=Actuarial+Modelling+|+Data+Science+|+Finance+Analytics;Open+to+collaboration+and+new+opportunities."/>
-</p>
