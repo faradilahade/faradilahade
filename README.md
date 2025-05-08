@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Peeps! I'm Farde 👋
 
 <!--
 **faradilahade/faradilahade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Actuarial Modelling
+![welcome](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdzN3p6YThsOWIya3M0c2k5dHRhaXk4cXhwM3g4YTUxMzkwdXhvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UThpUbZef3ulWxgvfn/giphy.gif)
